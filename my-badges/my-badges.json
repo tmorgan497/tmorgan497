@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/tmorgan497/artt/commit/a46bdcdf1761348153e18080cd33ee61f19b0aba\"><strong>a</strong>46bdcdf1761348153e18080cd33ee61f19b0aba</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"-\".",
+    "body": "My favorite commit message words are:\n\n1. - (used 32 times)\n2. added (used 16 times)\n3. add (used 15 times)\n4. files (used 12 times)\n5. initial (used 10 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/supabase/supabase/issues/29492\">#29492</a>: CREATE RLS policy fails after timeout with no error\n- <a href=\"https://github.com/eadwinCode/django-ninja-extra/issues/202\">#202</a>: Throttle response message customization\n- <a href=\"https://github.com/hoffstadt/DearPyGui/issues/1782\">#1782</a>: Individual row and cell theme coloring request\n- <a href=\"https://github.com/microsoft/vscode-pull-request-github/issues/4501\">#4501</a>: Got an error \"Activating the Pull Requests and Issues extension failed. Please make sure you have git installed.\"\n- <a href=\"https://github.com/eadwinCode/django-ninja-jwt/issues/63\">#63</a>: flushexpiredtokens management command confusion\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tmorgan497/nuxtui-playground/commit/c8b730a8429713f2c6a89a2a40ee907073a6c68e\">c8b730a</a>\n- <a href=\"https://github.com/tmorgan497/artt/commit/bde29166628887c53ee1e536bf472c55390bbc2e\">bde2916</a>\n- <a href=\"https://github.com/tmorgan497/artt/commit/57a7829fe44294f9e0aa62642d5daf92a84b8555\">57a7829</a>\n- <a href=\"https://github.com/tmorgan497/django-nuxt-primevue-boilerplate/commit/24e15a5e38cf88b665237d4aa84662e50ed2f4b2\">24e15a5</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
