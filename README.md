@@ -1,7 +1,5 @@
 
-# Tmorgan497's Badges
-
-[https://github.com/my-badges/my-badges](https://github.com/my-badges/my-badges)
+## Tmorgan497's Badges
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
@@ -13,6 +11,7 @@
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
 
+[https://github.com/my-badges/my-badges](https://github.com/my-badges/my-badges)
 
 <!--
 **tmorgan497/tmorgan497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
